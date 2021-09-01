@@ -1,0 +1,4 @@
+This is the GUI front ent for the arch device driver for the Logitec g13 game 
+controllerthat I borrowed from https://wiki.archlinux.org/title/Logitech_G13.
+
+I just decided to create a Graphical user interface to manage key assignment.
